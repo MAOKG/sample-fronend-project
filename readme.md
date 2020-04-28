@@ -12,9 +12,9 @@
 
 ```
 
-### Install depedencies
+### Install dependencies
 
-Fetch and install dependecies:
+Fetch and install dependencies:
 
 ```bash
 npm install
